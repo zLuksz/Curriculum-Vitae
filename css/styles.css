@@ -1,0 +1,17 @@
+body {
+	background: #F2E3D5;
+	font-family: arial;
+	font-size: 14px;
+}
+h1 {
+	font-size: 30px;
+}
+
+footer {
+	position: marker;
+	bottom: auto;
+	margin: auto;
+	background-color: bisque;
+	width: auto;
+	height: auto;
+}
